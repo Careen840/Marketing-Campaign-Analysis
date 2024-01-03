@@ -1,5 +1,5 @@
 
-# Analyzing Marketing Campaingn with Pandas 
+# Analyzing Marketing Campaign with Pandas 
 
 The task aimed at analyzing the performance of a marketing campaign that was produced on  different channels using common metrics such as conversion rate and retention rate and later on performing A/B testing. 
 
